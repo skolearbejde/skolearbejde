@@ -1,6 +1,7 @@
 ### Hi there 👋
+### My name is Mathias
 
-### Current studying hard in school with 1.5 year left 
+### Currently studying hard in school with 1.5 year left 
 
 <!--
 **skolearbejde/skolearbejde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
